@@ -4,8 +4,8 @@ Plugin Name: Harmsco Product Compatibility
 Plugin URI: https://github.com/amazeing-technologies/harmsco-product-compatibility
 Description: Displays compatible and family products for each housing using ACF fields and Elementor. Now with GitHub auto-update support.
 Version: 1.2
-Author: Maze & Tomi
-Author URI: https://amazeingtechnologies.com
+Author: amazeing technolgies
+Author URI:
 Update URI: https://github.com/amazeing-technologies/harmsco-product-compatibility
 */
 
